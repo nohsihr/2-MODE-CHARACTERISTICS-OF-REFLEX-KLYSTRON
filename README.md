@@ -5,7 +5,6 @@
 To study mode characteristics of reflex klystron and hence to determine mode number,transit time electronic tuning range (ETR) and electronic tuning sensitivity (ETS)
 
 **Equipment and Component:**
-
 1.	Klystron power supply MTI KP 503
 2.	Klystron tube /2k25
 3.	Isolator MTI/ NVIS- 204
@@ -15,12 +14,12 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 7.	Waveguide stands MTI/NVIS
 8.	VSWR meter MTI VS 501/NVIS
 9.	Cathode Ray Oscilloscope Scientech -801C
-   
-**Experimental Setup:**
+    **Experimental Setup:**
 
 <img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
 
-**Theory:**
+
+**Theory**
 
 The Reflex Klystron is a microwave tube used as a microwave source in the lab. It makes use of velocity modulation to transform a continuous electron beam into microwave power. Its oscillation frequency can be varied over a wide band and it can be pulse and frequency modulated.
 Electrons emitted from the cathode are accelerated by and pass through the positive resonator grid towards the reflector. The reflector is at a negative voltage with respect to cathode, and consequently it retard and finally reflects (reflex klystron) the electrons, which then turn back through the resonator grids: In case the klystron starts to oscillate, a hi-field exists between the resonator grids. The electron travelling through the grid will be either accelerated or retarded as the voltage changes in amplitude. Accelerated electrons leave the grid at an increased velocity and retarded electrons leave at a reduced velocity. Because of the difference in velocity the electrons leaving the grids will need different time to return (i.e., have different transit times).As a result of returning electron group together in bunches. This variation in velocity of the electrons is called velocity modulation.
@@ -52,14 +51,10 @@ Mechanical and Electronic Tuning
 Mechanical tuning depends on changing the width of cavity i.e. the effective I capacitance and thus the resonant frequency of the klystron changes. The power output remains same with tuning.
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
-
 **Observation:**
+<img width="1563" height="1004" alt="image" src="https://github.com/user-attachments/assets/de6b77b8-0cf4-4c63-9b93-d7222ffcffe8" />
 
-
-![Screenshot 2025-11-17 184800](https://github.com/user-attachments/assets/c4c03bbf-0f56-4e81-b50b-e92e582de23f)
-
-<img width="1178" height="1577" alt="image" src="https://github.com/user-attachments/assets/217b715e-be43-4e52-a05f-3c6a4441cbb9" />
-
+<img width="1272" height="1599" alt="image" src="https://github.com/user-attachments/assets/a0c5f613-54e7-4c5b-95ee-262781b95963" />
 
 **CALCULATIONS:**
 
@@ -80,9 +75,9 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-**Result:**
-Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
-			
+    **Result:**
+   	
+	The mode characteristics of the Reflex Klystron were successfully studied. The Electronic Tuning Range (ETR) was found to be about 150 MHz, and the Electronic Tuning Sensitivity (ETS) was about 7.5 MHz/V. Thus, the klystron effectively demonstrated electronic tuning using velocity modulation.		
 			
 			
 			
